@@ -17,7 +17,8 @@
     "mendel-middleware": "*",
     "morgan": "^1.7.0",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "twemoji": "^2.2.5"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.6",

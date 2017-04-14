@@ -4,6 +4,7 @@
 import App from './components/app';
 import React from 'react'; // eslint-disable-line
 import '../../config.json';
+import Twemoji from 'twemoji';
 
 if (typeof document !== 'undefined') {
     const ReactDOM = require('react-dom');
